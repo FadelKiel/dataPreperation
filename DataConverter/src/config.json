@@ -1,0 +1,150 @@
+
+	{
+		"data": [
+		{
+			"name": "kennzeichen",
+			"startPosition": "1",
+			"laenge":"4" 
+		}
+	,
+	
+		{
+			"name": "anwendung",
+			"startPosition":"5" ,
+			"laenge": "7"
+		}
+	,
+	
+		 {
+			"name": "voat",
+			"startPosition": "12",
+			"laenge": "2"
+		}
+	,
+	
+		{
+			"name": "sammelueb",
+			"startPosition": "14",
+			"laenge": "1"
+		}
+	,
+	
+		{
+			"name": "panr",
+			"startPosition":"15" ,
+			"laenge":"3" 
+		}
+	,
+	
+		{
+			"name": "prnr",
+			"startPosition":"18" ,
+			"laenge": "14"
+		}
+	,
+	
+		{
+			"name": "bugken",
+			"startPosition":"32" ,
+			"laenge": "15"
+		}
+	,
+	
+		{
+			"name": "rcvgbic",
+			"startPosition":"47" ,
+			"laenge": "11"
+		}
+	,
+	
+		{
+			"name": "sebic",
+			"startPosition":"58" ,
+			"laenge": "11"
+		}
+	,
+	
+		{
+			"name": "ktokenn",
+			"startPosition":"69" ,
+			"laenge":"2" 
+		}
+	,
+	
+		{
+			"name": "endtoend",
+			"startPosition":"71" ,
+			"laenge": "35"
+		}
+	,
+	
+		{
+			"name": "instdamt",
+			"startPosition": "106",
+			"laenge": "11"
+		}
+	,
+	
+		{
+			"name": "credbic",
+			"startPosition": "117",
+			"laenge": "11"
+		}
+	,
+	
+		{
+			"name": "credname",
+			"startPosition": "128",
+			"laenge": "35"
+		}
+	,
+	
+		{
+			"name": "crediban",
+			"startPosition": "163",
+			"laenge": "34"
+		}
+	,
+	
+		{
+			"name": "dt_last",
+			"startPosition":"197" ,
+			"laenge": "8"
+		}
+	,
+	
+		{
+			"name": "dt_ausg",
+			"startPosition":"205" ,
+			"laenge": "8"
+		}
+	,
+	
+		{
+			"name": "sndginst",
+			"startPosition": "213",
+			"laenge": "11"
+		}
+	,
+	
+		{
+			"name": "instgagt",
+			"startPosition": "224",
+			"laenge": "11"
+		}
+	,
+	
+		{
+			"name": "filler",
+			"startPosition":"235" ,
+			"laenge": "76"
+		}
+	,
+	
+		{
+			"name": "rmtinf",
+			"startPosition": "311",
+			"laenge": "140"
+		}
+	]
+	}
